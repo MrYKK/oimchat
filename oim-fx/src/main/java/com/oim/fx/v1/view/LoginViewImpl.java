@@ -16,11 +16,11 @@ import com.oim.core.common.data.UserSaveDataBox;
 import com.oim.fx.common.box.ImageBox;
 import com.oim.fx.view.ForgetPasswordView;
 import com.oim.ui.fx.classics.LoginStage;
-import com.only.common.util.OnlyMD5Util;
-import com.only.common.util.OnlyStringUtil;
 import com.only.fx.common.action.ValueAction;
 import com.onlyxiahui.app.base.AppContext;
 import com.onlyxiahui.app.base.view.AbstractView;
+import com.onlyxiahui.common.util.OnlyMD5Util;
+import com.onlyxiahui.common.util.OnlyStringUtil;
 import com.onlyxiahui.im.message.data.LoginData;
 
 import javafx.application.Platform;

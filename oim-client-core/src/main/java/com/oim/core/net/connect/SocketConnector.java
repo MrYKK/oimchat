@@ -17,9 +17,9 @@ import org.apache.mina.transport.socket.nio.NioSocketConnector;
 
 import com.oim.core.net.connect.codec.DataCodecFactory;
 import com.only.common.lib.util.OnlyJsonUtil;
-import com.only.net.connect.ConnectData;
-import com.only.net.connect.Connector;
 import com.onlyxiahui.im.message.Data;
+import com.onlyxiahui.net.connect.ConnectData;
+import com.onlyxiahui.net.connect.Connector;
 
 /**
  * date 2012-9-14 17:40:54

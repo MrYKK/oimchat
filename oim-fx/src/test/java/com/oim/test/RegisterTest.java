@@ -7,9 +7,9 @@ import java.util.Random;
 
 import com.oim.core.net.http.HttpHandler;
 import com.oim.core.net.http.Request;
-import com.only.common.util.OnlyDateUtil;
-import com.only.common.util.OnlyMD5Util;
-import com.only.net.data.action.DataBackActionAdapter;
+import com.onlyxiahui.common.util.OnlyDateUtil;
+import com.onlyxiahui.common.util.OnlyMD5Util;
+import com.onlyxiahui.net.data.action.DataBackActionAdapter;
 
 /**
  * 描述：

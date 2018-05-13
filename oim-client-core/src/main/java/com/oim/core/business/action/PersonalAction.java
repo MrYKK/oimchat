@@ -2,11 +2,11 @@ package com.oim.core.business.action;
 
 import com.oim.core.business.service.PersonalService;
 import com.only.common.result.Info;
-import com.only.general.annotation.action.ActionMapping;
-import com.only.general.annotation.action.MethodMapping;
-import com.only.general.annotation.parameter.Define;
 import com.onlyxiahui.app.base.AppContext;
 import com.onlyxiahui.app.base.component.AbstractAction;
+import com.onlyxiahui.general.annotation.action.ActionMapping;
+import com.onlyxiahui.general.annotation.action.MethodMapping;
+import com.onlyxiahui.general.annotation.parameter.Define;
 import com.onlyxiahui.im.bean.UserData;
 import com.onlyxiahui.im.bean.UserHead;
 

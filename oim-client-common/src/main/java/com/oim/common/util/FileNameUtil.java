@@ -3,7 +3,7 @@ package com.oim.common.util;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import com.only.common.util.OnlyStringUtil;
+import com.onlyxiahui.common.util.OnlyStringUtil;
 
 
 /**

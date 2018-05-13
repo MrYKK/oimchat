@@ -22,16 +22,16 @@ import com.oim.core.net.thread.SocketDataHandler;
 import com.oim.swing.ui.VideoFrame;
 import com.oim.swing.ui.video.VideoShowPanel;
 import com.only.OnlyMessageBox;
-import com.only.common.util.OnlyZipUtil;
 import com.only.fx.common.action.ExecuteAction;
-import com.only.general.annotation.parameter.Define;
 import com.only.net.action.Back;
-import com.only.net.data.action.DataBackAction;
-import com.only.net.data.action.DataBackActionAdapter;
 import com.onlyxiahui.app.base.AppContext;
 import com.onlyxiahui.app.base.view.AbstractView;
+import com.onlyxiahui.common.util.OnlyZipUtil;
+import com.onlyxiahui.general.annotation.parameter.Define;
 import com.onlyxiahui.im.bean.UserData;
 import com.onlyxiahui.im.message.data.AddressData;
+import com.onlyxiahui.net.data.action.DataBackAction;
+import com.onlyxiahui.net.data.action.DataBackActionAdapter;
 
 /**
  * 描述：

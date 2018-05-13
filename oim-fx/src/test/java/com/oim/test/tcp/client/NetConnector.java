@@ -19,7 +19,7 @@ import org.apache.mina.filter.executor.ExecutorFilter;
 import org.apache.mina.transport.socket.nio.NioSocketConnector;
 
 import com.oim.core.net.connect.codec.DataCodecFactory;
-import com.only.net.connect.ConnectData;
+import com.onlyxiahui.net.connect.ConnectData;
 
 /**
  * date 2012-9-14 17:40:54

@@ -2,7 +2,7 @@ package com.oim.core.common.util;
 
 import java.util.Date;
 
-import com.only.common.util.OnlyDateUtil;
+import com.onlyxiahui.common.util.OnlyDateUtil;
 
 /**
  * @author XiaHui

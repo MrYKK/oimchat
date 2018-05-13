@@ -25,9 +25,9 @@ import org.dom4j.Element;
 import org.dom4j.io.SAXReader;
 import org.dom4j.io.XMLWriter;
 
-import com.only.common.util.OnlyFileUtil;
-import com.only.xml.XmlNodeDecoder;
-import com.only.xml.XmlNodeEncoder;
+import com.onlyxiahui.common.util.OnlyFileUtil;
+import com.onlyxiahui.xml.bean.XmlNodeDecoder;
+import com.onlyxiahui.xml.bean.XmlNodeEncoder;
 
 /**
  * 这里是将一些配置转成xml或者将xml转回对象

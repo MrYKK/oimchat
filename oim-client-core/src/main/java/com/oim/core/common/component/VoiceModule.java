@@ -16,7 +16,7 @@ import com.oim.core.common.util.OnlyByteUtil;
 import com.oim.core.net.thread.SocketData;
 import com.oim.core.net.thread.SocketDataHandler;
 import com.oim.core.net.thread.SocketThread;
-import com.only.common.util.OnlyZipUtil;
+import com.onlyxiahui.common.util.OnlyZipUtil;
 import com.onlyxiahui.im.message.data.AddressData;
 
 /**

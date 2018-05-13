@@ -7,12 +7,12 @@ import com.oim.core.business.view.UpdatePasswordView;
 import com.oim.ui.fx.classics.UpdatePasswordFrame;
 import com.only.common.result.Info;
 import com.only.common.result.util.MessageUtil;
-import com.only.common.util.OnlyMD5Util;
 import com.only.net.action.Back;
-import com.only.net.data.action.DataBackActionAdapter;
 import com.onlyxiahui.app.base.AppContext;
 import com.onlyxiahui.app.base.view.AbstractView;
+import com.onlyxiahui.common.util.OnlyMD5Util;
 import com.onlyxiahui.im.message.data.LoginData;
+import com.onlyxiahui.net.data.action.DataBackActionAdapter;
 
 import javafx.application.Platform;
 

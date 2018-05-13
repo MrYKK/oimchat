@@ -26,21 +26,21 @@ import com.oim.core.common.component.file.FileHandleInfo;
 import com.oim.core.common.component.file.FileInfo;
 import com.only.common.lib.util.OnlyJsonUtil;
 import com.only.common.result.Info;
-import com.only.common.util.OnlyFileUtil;
-import com.only.common.util.OnlyMD5Util;
-import com.only.common.util.OnlyStringUtil;
-import com.only.general.annotation.parameter.Define;
 import com.only.net.action.Back;
-import com.only.net.data.action.DataBackAction;
 import com.onlyxiahui.app.base.AppContext;
 import com.onlyxiahui.app.base.component.AbstractManager;
 import com.onlyxiahui.app.base.task.ExecuteTask;
+import com.onlyxiahui.common.util.OnlyFileUtil;
+import com.onlyxiahui.common.util.OnlyMD5Util;
+import com.onlyxiahui.common.util.OnlyStringUtil;
+import com.onlyxiahui.general.annotation.parameter.Define;
 import com.onlyxiahui.im.bean.GroupHead;
 import com.onlyxiahui.im.bean.UserData;
 import com.onlyxiahui.im.bean.UserHead;
 import com.onlyxiahui.im.message.data.FileData;
 import com.onlyxiahui.im.message.data.chat.ImageValue;
 import com.onlyxiahui.im.message.data.chat.Item;
+import com.onlyxiahui.net.data.action.DataBackAction;
 
 /**
  * 描述：

@@ -6,12 +6,12 @@ import com.oim.core.business.view.FindView;
 import com.oim.core.common.app.view.UserPaneMenuView;
 import com.only.common.result.Info;
 import com.only.fx.common.component.OnlyMenuItem;
-import com.only.general.annotation.parameter.Define;
 import com.only.net.action.Back;
-import com.only.net.data.action.DataBackActionAdapter;
 import com.onlyxiahui.app.base.AppContext;
 import com.onlyxiahui.app.base.view.AbstractView;
+import com.onlyxiahui.general.annotation.parameter.Define;
 import com.onlyxiahui.im.bean.UserCategory;
+import com.onlyxiahui.net.data.action.DataBackActionAdapter;
 
 import javafx.application.Platform;
 import javafx.geometry.Side;

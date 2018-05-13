@@ -3,7 +3,7 @@ package com.oim.test.function.remote;
 import javax.swing.UIManager;
 
 import com.oim.core.common.component.RemoteModule;
-import com.only.net.connect.ConnectData;
+import com.onlyxiahui.net.connect.ConnectData;
 
 /**
  * @author: XiaHui

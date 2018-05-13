@@ -1,7 +1,7 @@
 package com.oim.common.chat.util;
 
-import com.only.common.util.OnlyStringUtil;
-import com.only.common.util.OnlySystemUtil;
+import com.onlyxiahui.common.util.OnlyStringUtil;
+import com.onlyxiahui.common.util.OnlySystemUtil;
 
 /**
  * @author: XiaHui

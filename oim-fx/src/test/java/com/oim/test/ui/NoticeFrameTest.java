@@ -12,7 +12,7 @@ import com.oim.controlsfx.Notifications;
 import com.oim.ui.fx.classics.NoticeFrame;
 import com.oim.ui.fx.classics.WebFrame;
 import com.oim.ui.fx.classics.notice.TextNoticeItem;
-import com.only.common.util.OnlyDateUtil;
+import com.onlyxiahui.common.util.OnlyDateUtil;
 import com.onlyxiahui.im.message.data.notice.TextNotice;
 
 import javafx.application.Application;

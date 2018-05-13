@@ -15,7 +15,7 @@ import com.oim.fx.common.component.MediaSimplPane;
 import com.oim.fx.common.component.WaitingPane;
 import com.oim.fx.ui.list.HeadImagePanel;
 import com.oim.ui.fx.classics.component.FreeComboBox;
-import com.only.fx.OnlyPopupOver;
+import com.onlyxiahui.fx.OnlyPopupOver;
 import com.only.fx.common.action.ValueAction;
 import com.only.fx.common.component.OnlyMenuItem;
 

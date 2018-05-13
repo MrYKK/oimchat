@@ -33,15 +33,15 @@ import com.oim.ui.fx.classics.UserEditFrame;
 import com.oim.ui.fx.classics.UserHeadUploadFrame;
 import com.oim.ui.fx.classics.head.HeadListPane;
 import com.only.common.result.Info;
-import com.only.common.util.OnlyFileUtil;
-import com.only.general.annotation.parameter.Define;
 import com.only.net.action.Back;
-import com.only.net.data.action.DataBackActionAdapter;
 import com.onlyxiahui.app.base.AppContext;
 import com.onlyxiahui.app.base.task.ExecuteTask;
 import com.onlyxiahui.app.base.view.AbstractView;
+import com.onlyxiahui.common.util.OnlyFileUtil;
+import com.onlyxiahui.general.annotation.parameter.Define;
 import com.onlyxiahui.im.bean.UserData;
 import com.onlyxiahui.im.bean.UserHead;
+import com.onlyxiahui.net.data.action.DataBackActionAdapter;
 
 import javafx.application.Platform;
 import javafx.embed.swing.SwingFXUtils;

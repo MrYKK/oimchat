@@ -12,10 +12,10 @@ import com.google.gson.GsonBuilder;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.only.common.resolver.BeanBox;
-import com.only.common.util.OnlyClassUtil;
-import com.only.common.util.OnlyPropertyUtil;
-import com.only.general.annotation.parameter.Define;
-import com.only.general.data.Body;
+import com.onlyxiahui.common.util.OnlyClassUtil;
+import com.onlyxiahui.common.util.OnlyPropertyUtil;
+import com.onlyxiahui.general.annotation.parameter.Define;
+import com.onlyxiahui.general.data.Body;
 
 /**
  * 反射调用方法，并传值

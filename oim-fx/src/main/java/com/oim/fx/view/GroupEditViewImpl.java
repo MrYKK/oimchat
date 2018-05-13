@@ -8,13 +8,13 @@ import com.oim.core.business.sender.GroupSender;
 import com.oim.core.business.view.GroupEditView;
 import com.oim.ui.fx.classics.GroupEditFrame;
 import com.only.common.result.Info;
-import com.only.general.annotation.parameter.Define;
 import com.only.net.action.Back;
-import com.only.net.data.action.DataBackActionAdapter;
 import com.onlyxiahui.app.base.AppContext;
 import com.onlyxiahui.app.base.view.AbstractView;
+import com.onlyxiahui.general.annotation.parameter.Define;
 import com.onlyxiahui.im.bean.Group;
 import com.onlyxiahui.im.bean.GroupCategoryMember;
+import com.onlyxiahui.net.data.action.DataBackActionAdapter;
 
 import javafx.application.Platform;
 import javafx.scene.image.Image;

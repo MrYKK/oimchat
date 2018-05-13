@@ -3,11 +3,11 @@ package com.oim.core.business.action;
 import java.util.List;
 
 import com.oim.core.business.service.LastListService;
-import com.only.general.annotation.action.ActionMapping;
-import com.only.general.annotation.action.MethodMapping;
-import com.only.general.annotation.parameter.Define;
 import com.onlyxiahui.app.base.AppContext;
 import com.onlyxiahui.app.base.component.AbstractAction;
+import com.onlyxiahui.general.annotation.action.ActionMapping;
+import com.onlyxiahui.general.annotation.action.MethodMapping;
+import com.onlyxiahui.general.annotation.parameter.Define;
 import com.onlyxiahui.im.bean.Group;
 import com.onlyxiahui.im.bean.UserData;
 import com.onlyxiahui.im.message.data.chat.LastChat;

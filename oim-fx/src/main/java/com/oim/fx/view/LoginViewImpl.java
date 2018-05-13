@@ -15,10 +15,10 @@ import com.oim.core.common.data.UserSaveData;
 import com.oim.core.common.data.UserSaveDataBox;
 import com.oim.fx.common.box.ImageBox;
 import com.oim.fx.ui.LoginFrame;
-import com.only.common.util.OnlyMD5Util;
 import com.only.fx.common.action.ExecuteAction;
 import com.onlyxiahui.app.base.AppContext;
 import com.onlyxiahui.app.base.view.AbstractView;
+import com.onlyxiahui.common.util.OnlyMD5Util;
 import com.onlyxiahui.im.message.data.LoginData;
 
 import javafx.application.Platform;

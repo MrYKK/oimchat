@@ -2,8 +2,8 @@ package com.test.only.general.blocking;
 
 import java.util.concurrent.TimeUnit;
 
-import com.only.common.util.OnlyDateUtil;
 import com.only.general.blocking.QueueBlockingHandler;
+import com.onlyxiahui.common.util.OnlyDateUtil;
 
 /**
  * @author XiaHui

@@ -6,8 +6,8 @@ import java.io.IOException;
 import javax.imageio.ImageIO;
 
 import com.oim.fx.common.component.ScreenShotFrame;
-import com.only.common.util.OnlyFileUtil;
 import com.only.fx.common.action.EventAction;
+import com.onlyxiahui.common.util.OnlyFileUtil;
 
 import javafx.application.Application;
 import javafx.embed.swing.SwingFXUtils;

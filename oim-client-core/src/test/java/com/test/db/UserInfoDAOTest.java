@@ -2,8 +2,8 @@ package com.test.db;
 
 import com.oim.core.business.dao.UserInfoDAO;
 import com.oim.core.common.bean.UserInfo;
-import com.only.query.hibernate.QueryContext;
-import com.only.query.hibernate.QueryItemException;
+import com.onlyxiahui.query.hibernate.QueryContext;
+import com.onlyxiahui.query.hibernate.QueryItemException;
 
 /**
  * @author XiaHui

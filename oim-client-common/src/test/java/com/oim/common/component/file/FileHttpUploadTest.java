@@ -7,7 +7,7 @@ import java.util.Map;
 import org.junit.Test;
 
 import com.oim.common.component.file.action.FileAction;
-import com.only.common.util.OnlyNumberUtil;
+import com.onlyxiahui.common.util.OnlyNumberUtil;
 
 /**
  * @author: XiaHui

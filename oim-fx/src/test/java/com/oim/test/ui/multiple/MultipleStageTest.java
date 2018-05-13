@@ -18,7 +18,7 @@ import com.oim.ui.fx.succinct.list.ListItemPane;
 import com.oim.ui.fx.succinct.list.ListNodePane;
 import com.oim.ui.fx.succinct.main.MainPane;
 import com.oim.ui.fx.succinct.main.PersonalPane;
-import com.only.common.util.OnlyDateUtil;
+import com.onlyxiahui.common.util.OnlyDateUtil;
 
 import javafx.application.Application;
 import javafx.scene.image.Image;

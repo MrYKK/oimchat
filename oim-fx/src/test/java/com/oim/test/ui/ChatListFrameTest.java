@@ -23,7 +23,7 @@ import com.oim.fx.common.component.IconPane;
 import com.oim.fx.ui.ChatListFrame;
 import com.oim.fx.ui.chat.ChatItem;
 import com.oim.fx.ui.chat.ChatPanel;
-import com.only.common.util.OnlyDateUtil;
+import com.onlyxiahui.common.util.OnlyDateUtil;
 import com.onlyxiahui.im.message.data.chat.Content;
 import com.onlyxiahui.im.message.data.chat.Item;
 import com.onlyxiahui.im.message.data.chat.Section;

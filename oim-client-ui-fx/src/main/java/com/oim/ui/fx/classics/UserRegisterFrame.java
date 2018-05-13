@@ -13,7 +13,7 @@ import java.util.Date;
 import com.oim.fx.common.box.ImageBox;
 import com.oim.fx.common.component.WaitingPane;
 import com.oim.fx.common.component.list.KeyText;
-import com.only.fx.OnlyPopupOver;
+import com.onlyxiahui.fx.OnlyPopupOver;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;

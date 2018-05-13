@@ -14,16 +14,16 @@ import com.oim.ui.fx.classics.forget.QuestionItem;
 import com.oim.ui.fx.classics.forget.QuestionPane;
 import com.only.common.result.Info;
 import com.only.common.result.util.MessageUtil;
-import com.only.common.util.OnlyMD5Util;
-import com.only.general.annotation.parameter.Define;
 import com.only.net.action.Back;
-import com.only.net.data.action.DataBackAction;
-import com.only.net.data.action.DataBackActionAdapter;
 import com.onlyxiahui.app.base.AppContext;
 import com.onlyxiahui.app.base.view.AbstractView;
+import com.onlyxiahui.common.util.OnlyMD5Util;
+import com.onlyxiahui.general.annotation.parameter.Define;
 import com.onlyxiahui.im.bean.SecurityQuestion;
 import com.onlyxiahui.im.bean.UserData;
 import com.onlyxiahui.im.message.data.address.ServerAddressConfig;
+import com.onlyxiahui.net.data.action.DataBackAction;
+import com.onlyxiahui.net.data.action.DataBackActionAdapter;
 
 import javafx.application.Platform;
 

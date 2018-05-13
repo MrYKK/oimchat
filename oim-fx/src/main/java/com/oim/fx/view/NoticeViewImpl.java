@@ -14,13 +14,13 @@ import com.oim.ui.fx.classics.NoticeFrame;
 import com.oim.ui.fx.classics.WebFrame;
 import com.oim.ui.fx.classics.notice.TextNoticeItem;
 import com.only.common.result.Info;
-import com.only.common.util.OnlyDateUtil;
-import com.only.general.annotation.parameter.Define;
 import com.only.net.action.Back;
-import com.only.net.data.action.DataBackActionAdapter;
 import com.onlyxiahui.app.base.AppContext;
 import com.onlyxiahui.app.base.view.AbstractView;
+import com.onlyxiahui.common.util.OnlyDateUtil;
+import com.onlyxiahui.general.annotation.parameter.Define;
 import com.onlyxiahui.im.message.data.notice.TextNotice;
+import com.onlyxiahui.net.data.action.DataBackActionAdapter;
 import com.onlyxiahui.im.message.data.PageData;
 
 import javafx.application.Platform;

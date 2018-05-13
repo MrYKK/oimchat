@@ -7,13 +7,13 @@ import com.oim.core.common.config.ConfigManage;
 import com.oim.core.common.config.data.ServerConfig;
 import com.oim.core.net.http.RequestClient;
 import com.only.common.result.Info;
-import com.only.general.annotation.parameter.Define;
 import com.only.net.action.Back;
-import com.only.net.data.action.DataBackActionAdapter;
 import com.onlyxiahui.app.base.AppContext;
 import com.onlyxiahui.app.base.component.AbstractManager;
+import com.onlyxiahui.general.annotation.parameter.Define;
 import com.onlyxiahui.im.message.client.Message;
 import com.onlyxiahui.im.message.data.address.ServerAddressConfig;
+import com.onlyxiahui.net.data.action.DataBackActionAdapter;
 
 /**
  * @author XiaHui

@@ -2,9 +2,9 @@ package com.oim.core.common.db;
 
 import java.util.List;
 
-import com.only.query.hibernate.QueryItem;
-import com.only.query.hibernate.QueryWrapper;
-import com.only.query.hibernate.ResultType;
+import com.onlyxiahui.query.hibernate.QueryItem;
+import com.onlyxiahui.query.hibernate.QueryWrapper;
+import com.onlyxiahui.query.hibernate.ResultType;
 
 /**
  * 描述：

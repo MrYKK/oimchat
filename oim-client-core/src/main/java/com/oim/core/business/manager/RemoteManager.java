@@ -14,14 +14,14 @@ import com.oim.core.common.component.remote.EventData;
 import com.oim.core.common.component.remote.EventDataAction;
 import com.oim.core.common.component.remote.ScreenHandler;
 import com.only.common.result.Info;
-import com.only.general.annotation.parameter.Define;
 import com.only.net.action.Back;
-import com.only.net.connect.ConnectData;
-import com.only.net.data.action.DataBackAction;
 import com.onlyxiahui.app.base.AppContext;
 import com.onlyxiahui.app.base.component.AbstractManager;
+import com.onlyxiahui.general.annotation.parameter.Define;
 import com.onlyxiahui.im.bean.UserData;
 import com.onlyxiahui.im.message.data.AddressData;
+import com.onlyxiahui.net.connect.ConnectData;
+import com.onlyxiahui.net.data.action.DataBackAction;
 
 /**
  * 描述：远程协助管理

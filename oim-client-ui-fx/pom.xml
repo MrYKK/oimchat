@@ -18,8 +18,8 @@
 
 	<repositories>
 		<repository>
-			<id>com.only</id>
-			<url>https://raw.githubusercontent.com/onlyxiahui/maven/master/repository</url>
+			<id>com.onlyxiahui</id>
+			<url>https://gitee.com/onlyxiahui/maven/raw/master/repository</url>
 		</repository>
 	</repositories>
 	
@@ -30,7 +30,7 @@
 			<version>[1.6.1,]</version>
 		</dependency>
 		<dependency>
-            <groupId>com.only</groupId>
+            <groupId>com.onlyxiahui</groupId>
             <artifactId>only-app-fx</artifactId>
             <version>0.0.1</version>
         </dependency>

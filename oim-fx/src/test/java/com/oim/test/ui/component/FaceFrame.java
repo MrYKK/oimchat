@@ -12,7 +12,7 @@ import com.oim.fx.common.box.ImageBox;
 import com.oim.fx.common.component.IconButton;
 import com.oim.ui.fx.classics.ClassicsStage;
 import com.oim.ui.fx.classics.chat.FacePopup;
-import com.only.fx.OnlyPopupOver;
+import com.onlyxiahui.fx.OnlyPopupOver;
 import com.onlyxiahui.oim.face.FaceRepository;
 import com.onlyxiahui.oim.face.bean.FaceCategory;
 import com.onlyxiahui.oim.face.bean.FaceInfo;

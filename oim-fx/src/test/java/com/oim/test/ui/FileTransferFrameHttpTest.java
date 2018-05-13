@@ -17,7 +17,7 @@ import com.oim.core.common.component.file.FileInfo;
 import com.oim.fx.common.box.ImageBox;
 import com.oim.ui.fx.classics.FileTransferFrame;
 import com.oim.ui.fx.classics.file.FileUpItem;
-import com.only.common.util.OnlyNumberUtil;
+import com.onlyxiahui.common.util.OnlyNumberUtil;
 
 import javafx.application.Application;
 import javafx.application.Platform;

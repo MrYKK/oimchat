@@ -37,7 +37,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 import com.only.fx.OnlyFrame;
-import com.only.fx.OnlyStage;
+import com.onlyxiahui.fx.OnlyStage;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

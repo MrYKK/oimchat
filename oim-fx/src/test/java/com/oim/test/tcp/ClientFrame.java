@@ -14,7 +14,7 @@ import org.apache.mina.core.session.IoSession;
 
 import com.oim.test.tcp.client.NetConnector;
 import com.oim.test.tcp.server.Server;
-import com.only.net.connect.ConnectData;
+import com.onlyxiahui.net.connect.ConnectData;
 
 /**
  *

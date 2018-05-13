@@ -14,7 +14,7 @@ import com.oim.core.common.component.remote.EventDataHandler;
 import com.oim.core.common.component.remote.ScreenHandler;
 import com.oim.swing.function.ui.remote.RemoteControlFrame;
 import com.oim.swing.function.ui.remote.server.OperationCapture;
-import com.only.net.connect.ConnectData;
+import com.onlyxiahui.net.connect.ConnectData;
 
 public class RemoteServerTest {
 

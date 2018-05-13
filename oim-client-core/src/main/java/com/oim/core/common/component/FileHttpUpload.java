@@ -25,7 +25,7 @@ import com.google.gson.JsonParser;
 import com.oim.common.component.file.action.FileAction;
 import com.oim.core.common.component.file.FileInfo;
 import com.only.common.result.Info;
-import com.only.common.util.OnlyNumberUtil;
+import com.onlyxiahui.common.util.OnlyNumberUtil;
 
 /**
  * @author: XiaHui

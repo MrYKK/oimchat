@@ -19,20 +19,20 @@
 
 	<repositories>
 		<repository>
-			<id>com.only</id>
-			<url>https://raw.githubusercontent.com/onlyxiahui/maven/master/repository</url>
+			<id>com.onlyxiahui</id>
+			<url>https://gitee.com/onlyxiahui/maven/raw/master/repository</url>
 		</repository>
 	</repositories>
 
 	<dependencies>
 		<!-- only start -->
 		<dependency>
-			<groupId>com.only</groupId>
+			<groupId>com.onlyxiahui</groupId>
 			<artifactId>only-query-hibernate</artifactId>
 			<version>0.0.1</version>
 		</dependency>
 		<dependency>
-			<groupId>com.only</groupId>
+			<groupId>com.onlyxiahui</groupId>
 			<artifactId>only-xml-bean</artifactId>
 			<version>0.0.1</version>
 		</dependency>

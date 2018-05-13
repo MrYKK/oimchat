@@ -8,7 +8,7 @@
     <packaging>jar</packaging>
 
     <name>oim-client-base</name>
-    <url>https://gitee.com/onlysoftware/oim-fx</url>
+    <url>https://gitee.com/oimchat/oim-fx</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -17,8 +17,8 @@
 
 	<repositories>
 		<repository>
-			<id>com.only</id>
-			<url>https://raw.githubusercontent.com/onlyxiahui/maven/master/repository</url>
+			<id>com.onlyxiahui</id>
+			<url>https://gitee.com/onlyxiahui/maven/raw/master/repository</url>
 		</repository>
 	</repositories>
 	
@@ -32,22 +32,22 @@
 		
 		<!-- only start -->
 		<dependency>
-			<groupId>com.only</groupId>
+			<groupId>com.onlyxiahui</groupId>
 			<artifactId>only-app-base</artifactId>
 			<version>0.0.1</version>
 		</dependency>
 		<dependency>
-			<groupId>com.only</groupId>
+			<groupId>com.onlyxiahui</groupId>
 			<artifactId>only-net-handler</artifactId>
 			<version>0.0.1</version>
 		</dependency>
 		<dependency>
-			<groupId>com.only</groupId>
+			<groupId>com.onlyxiahui</groupId>
 			<artifactId>only-common-util</artifactId>
 			<version>0.0.1</version>
 		</dependency>
 		<dependency>
-			<groupId>com.only</groupId>
+			<groupId>com.onlyxiahui</groupId>
 			<artifactId>only-general</artifactId>
 			<version>0.0.1</version>
 		</dependency>

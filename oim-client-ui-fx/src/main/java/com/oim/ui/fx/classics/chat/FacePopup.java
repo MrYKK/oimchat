@@ -3,7 +3,7 @@ package com.oim.ui.fx.classics.chat;
 import java.util.List;
 
 import com.oim.fx.common.component.IconButton;
-import com.only.fx.OnlyPopup;
+import com.onlyxiahui.fx.OnlyPopup;
 
 import javafx.scene.Node;
 import javafx.stage.Window;

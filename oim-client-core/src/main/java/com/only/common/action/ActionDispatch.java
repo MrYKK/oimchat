@@ -10,9 +10,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import com.only.common.spring.util.ClassScaner;
-import com.only.common.util.OnlyStringUtil;
-import com.only.general.annotation.action.ActionMapping;
-import com.only.general.annotation.action.MethodMapping;
+import com.onlyxiahui.common.util.OnlyStringUtil;
+import com.onlyxiahui.general.annotation.action.ActionMapping;
+import com.onlyxiahui.general.annotation.action.MethodMapping;
 
 /**
  * action分配调度模块

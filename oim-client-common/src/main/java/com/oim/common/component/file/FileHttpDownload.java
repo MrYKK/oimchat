@@ -12,9 +12,9 @@ import java.net.URLConnection;
 
 import com.oim.common.component.file.action.FileAction;
 import com.oim.common.util.FileNameUtil;
-import com.only.common.util.OnlyFileUtil;
-import com.only.common.util.OnlyMD5Util;
-import com.only.common.util.OnlyNumberUtil;
+import com.onlyxiahui.common.util.OnlyFileUtil;
+import com.onlyxiahui.common.util.OnlyMD5Util;
+import com.onlyxiahui.common.util.OnlyNumberUtil;
 
 /**
  * @author: XiaHui

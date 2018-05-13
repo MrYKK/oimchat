@@ -74,8 +74,8 @@ import com.oim.fx.view.NetSettingViewImpl;
 import com.oim.swing.view.RemoteViewImpl;
 import com.oim.swing.view.TrayViewImpl;
 import com.oim.swing.view.VideoViewImpl;
-import com.only.common.util.OnlyPropertiesUtil;
 import com.onlyxiahui.app.base.AppContext;
+import com.onlyxiahui.common.util.OnlyPropertiesUtil;
 
 import javafx.application.Platform;
 import javafx.concurrent.Task;

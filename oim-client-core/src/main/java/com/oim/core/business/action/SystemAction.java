@@ -1,9 +1,9 @@
 package com.oim.core.business.action;
 
-import com.only.general.annotation.action.ActionMapping;
-import com.only.general.annotation.action.MethodMapping;
 import com.onlyxiahui.app.base.AppContext;
 import com.onlyxiahui.app.base.component.AbstractAction;
+import com.onlyxiahui.general.annotation.action.ActionMapping;
+import com.onlyxiahui.general.annotation.action.MethodMapping;
 
 /**
  * 描述：

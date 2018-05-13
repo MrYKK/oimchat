@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 
 import com.oim.fx.common.box.ImageBox;
 import com.oim.fx.common.component.image.ImageCropperPane;
-import com.only.fx.OnlyPopupOver;
+import com.onlyxiahui.fx.OnlyPopupOver;
 import com.only.fx.common.action.EventAction;
 
 import javafx.event.ActionEvent;

@@ -6,7 +6,7 @@
 package com.oim.test.ui;
 
 import com.only.fx.OnlyFrame;
-import com.only.fx.OnlyPopupOver;
+import com.onlyxiahui.fx.OnlyPopupOver;
 
 import javafx.beans.Observable;
 import javafx.event.ActionEvent;

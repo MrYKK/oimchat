@@ -17,8 +17,8 @@
 
 	<repositories>
 		<repository>
-			<id>com.only</id>
-			<url>https://raw.githubusercontent.com/onlyxiahui/maven/master/repository</url>
+			<id>com.onlyxiahui</id>
+			<url>https://gitee.com/onlyxiahui/maven/raw/master/repository</url>
 		</repository>
 	</repositories>
 	

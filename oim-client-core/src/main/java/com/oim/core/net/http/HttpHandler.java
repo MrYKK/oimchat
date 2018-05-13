@@ -19,7 +19,7 @@ import com.only.common.resolver.BeanBox;
 import com.only.common.resolver.gson.DefineValuesResolver;
 import com.only.common.result.Info;
 import com.only.net.action.Back;
-import com.only.net.data.action.DataBackAction;
+import com.onlyxiahui.net.data.action.DataBackAction;
 
 import net.sf.json.util.JSONUtils;
 

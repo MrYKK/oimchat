@@ -19,8 +19,8 @@ import com.oim.core.common.component.remote.ScreenHandler;
 import com.oim.core.net.connect.remote.RemoteConnector;
 import com.oim.core.net.connect.remote.codec.BytesData;
 import com.only.common.lib.util.OnlyJsonUtil;
-import com.only.common.util.OnlyZipUtil;
-import com.only.net.connect.ConnectData;
+import com.onlyxiahui.common.util.OnlyZipUtil;
+import com.onlyxiahui.net.connect.ConnectData;
 
 import net.sf.json.util.JSONUtils;
 

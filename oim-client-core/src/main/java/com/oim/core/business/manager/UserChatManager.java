@@ -15,17 +15,17 @@ import com.oim.core.business.sender.UserChatSender;
 import com.oim.core.business.view.ChatListView;
 import com.oim.core.business.view.UserChatHistoryView;
 import com.only.common.result.Info;
-import com.only.common.util.OnlyDateUtil;
-import com.only.general.annotation.parameter.Define;
 import com.only.net.action.Back;
-import com.only.net.data.action.DataBackActionAdapter;
 import com.onlyxiahui.app.base.AppContext;
 import com.onlyxiahui.app.base.component.AbstractManager;
+import com.onlyxiahui.common.util.OnlyDateUtil;
+import com.onlyxiahui.general.annotation.parameter.Define;
 import com.onlyxiahui.im.bean.UserData;
 import com.onlyxiahui.im.message.data.PageData;
 import com.onlyxiahui.im.message.data.chat.Content;
 import com.onlyxiahui.im.message.data.chat.history.UserChatHistoryData;
 import com.onlyxiahui.im.message.data.query.ChatQuery;
+import com.onlyxiahui.net.data.action.DataBackActionAdapter;
 
 public class UserChatManager extends AbstractManager {
 

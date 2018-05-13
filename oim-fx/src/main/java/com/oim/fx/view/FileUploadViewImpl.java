@@ -12,9 +12,9 @@ import com.oim.core.common.component.file.FileInfo;
 import com.oim.fx.common.box.ImageBox;
 import com.oim.ui.fx.classics.FileTransferFrame;
 import com.oim.ui.fx.classics.file.FileUpItem;
-import com.only.common.util.OnlyNumberUtil;
 import com.onlyxiahui.app.base.AppContext;
 import com.onlyxiahui.app.base.view.AbstractView;
+import com.onlyxiahui.common.util.OnlyNumberUtil;
 import com.onlyxiahui.im.message.data.FileData;
 
 import javafx.application.Platform;

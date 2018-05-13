@@ -13,12 +13,12 @@ import org.hibernate.Session;
 import org.hibernate.Transaction;
 import org.hibernate.transform.Transformers;
 
-import com.only.query.hibernate.QueryContext;
-import com.only.query.hibernate.QueryWrapper;
-import com.only.query.hibernate.ResultToBean;
-import com.only.query.hibernate.ResultType;
-import com.only.query.page.DefaultPage;
-import com.only.query.page.QueryPage;
+import com.onlyxiahui.query.hibernate.QueryContext;
+import com.onlyxiahui.query.hibernate.QueryWrapper;
+import com.onlyxiahui.query.hibernate.ResultToBean;
+import com.onlyxiahui.query.hibernate.ResultType;
+import com.onlyxiahui.query.page.DefaultPage;
+import com.onlyxiahui.query.page.QueryPage;
 
 /**
  * 描述：

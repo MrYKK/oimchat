@@ -17,8 +17,8 @@ import com.oim.fx.common.box.ImageBox;
 import com.oim.fx.common.component.MediaSimplPane;
 import com.oim.fx.common.component.WaitingPane;
 import com.oim.ui.fx.classics.component.ListPopup;
-import com.only.fx.OnlyPopupOver;
-import com.only.fx.OnlyTitlePane;
+import com.onlyxiahui.fx.OnlyPopupOver;
+import com.onlyxiahui.fx.OnlyTitlePane;
 import com.only.fx.common.action.ExecuteAction;
 
 import javafx.beans.value.ChangeListener;

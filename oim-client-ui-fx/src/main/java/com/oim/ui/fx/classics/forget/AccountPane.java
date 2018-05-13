@@ -1,6 +1,6 @@
 package com.oim.ui.fx.classics.forget;
 
-import com.only.fx.OnlyPopupOver;
+import com.onlyxiahui.fx.OnlyPopupOver;
 
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;

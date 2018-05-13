@@ -10,7 +10,7 @@ import com.oim.fx.common.component.BaseStage;
 import com.oim.fx.ui.chat.pane.MessageItemLeft;
 import com.oim.fx.ui.chat.pane.MessageItemRight;
 import com.oim.fx.ui.chat.pane.NodeChatPane;
-import com.only.common.util.OnlyDateUtil;
+import com.onlyxiahui.common.util.OnlyDateUtil;
 
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;

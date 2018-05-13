@@ -7,11 +7,11 @@ import java.util.concurrent.ConcurrentHashMap;
 import com.oim.core.common.AppConstant;
 import com.oim.core.common.db.CommonDAO;
 import com.oim.core.common.db.SessionBox;
-import com.only.common.util.OnlyClassUtil;
-import com.only.query.hibernate.QueryContext;
-import com.only.query.hibernate.QueryItemException;
 import com.onlyxiahui.app.base.AbstractComponent;
 import com.onlyxiahui.app.base.AppContext;
+import com.onlyxiahui.common.util.OnlyClassUtil;
+import com.onlyxiahui.query.hibernate.QueryContext;
+import com.onlyxiahui.query.hibernate.QueryItemException;
 
 public class DAOFactory extends AbstractComponent {
 
