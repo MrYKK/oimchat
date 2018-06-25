@@ -32,8 +32,8 @@ public class ListNodePanel extends VBox {
     Label textLabel = new Label();
     Label numberLabel = new Label();
 
-    Image closed = ImageBox.getImageClassPath("/resources/main/images/list/closed.png");
-    Image open = ImageBox.getImageClassPath("/resources/main/images/list/open.png");
+    Image closed = ImageBox.getImageClassPath("/classics/images/list/closed.png");
+    Image open = ImageBox.getImageClassPath("/classics/images/list/open.png");
 
     ImageView imageView = new ImageView();
     BorderPane imagePane = new BorderPane();

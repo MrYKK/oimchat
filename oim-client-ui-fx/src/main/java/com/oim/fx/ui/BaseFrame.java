@@ -18,7 +18,7 @@ public class BaseFrame extends FreeStage {
 	}
 
 	private void init() {
-		this.getRootPane().getStylesheets().add(this.getClass().getResource("/resources/common/css/base.css").toString());
+		this.getRootPane().getStylesheets().add(this.getClass().getResource("/resources/css/base.css").toString());
 		this.setBackground("Resources/Images/Wallpaper/default.jpg");
 		this.setRadius(5);
 	}

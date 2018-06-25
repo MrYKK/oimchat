@@ -22,7 +22,7 @@ import javafx.scene.input.MouseEvent;
 public class LoginStage extends ClassicsStage {
 
 	private Button settingButton = new Button();// 顶部设置按钮
-	private LoginPane loginPane = new LoginPane();
+	protected LoginPane loginPane = new LoginPane();
 
 	public LoginStage() {
 		initComponent();

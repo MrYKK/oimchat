@@ -47,7 +47,7 @@ public class ChatListViewImpl extends AbstractView implements ChatListView {
 
 	protected RequestFrame requestRemoteFrame = new RequestFrame();
 
-	ChatListStage chatListStage = new ChatListStage();
+	protected ChatListStage chatListStage = new ChatListStage();
 
 	private long shakeTime = 0;// 记录收到或者发送抖动信息的时间，为了不过于频繁抖动。
 

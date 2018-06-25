@@ -290,7 +290,7 @@ public class LoginPane extends StackPane {
 		separatePane.setBottom(bottomBox);
 
 		rootStackPane.setPrefSize(428, 328);
-		
+
 		rootStackPane.getChildren().add(backgroundImageView);
 		rootStackPane.getChildren().add(mp);
 		rootStackPane.getChildren().add(separatePane);
@@ -309,12 +309,10 @@ public class LoginPane extends StackPane {
 		popup.setAutoHide(true);
 		popup.setOnKeyboardCloseButton(e -> popup.hide());
 		popup.setAnchorLocation(AnchorLocation.CONTENT_BOTTOM_LEFT);
-		
-		
+
 		mp.setPrefWidth(430);
 		mp.setPrefHeight(203);
 
-		
 	}
 
 	private void initEvent() {
@@ -341,7 +339,7 @@ public class LoginPane extends StackPane {
 				rememberCheckBox.setSelected(true);
 			}
 		});
-		
+
 		rememberCheckBox.setOnAction(a -> {
 			boolean selected = rememberCheckBox.isSelected();
 			if (!selected) {
@@ -456,10 +454,11 @@ public class LoginPane extends StackPane {
 
 	private void initSet() {
 		Image image = ImageBox.getImageClassPath("/classics/images/login/default/1.png");
-		//Image backgroundIamge = ImageBox.getImageClassPath("/classics/images/login/b1.jpg");
+		// Image backgroundIamge =
+		// ImageBox.getImageClassPath("/classics/images/login/b1.jpg");
 		// Image topIamge =
 		// ImageBox.getImageClassPath("/classics/images/login/login_bkg_normal.png");
-		//setBackgroundImage(backgroundIamge);
+		// setBackgroundImage(backgroundIamge);
 		// setTopImage(topIamge);
 		setHeadImage(image);
 		this.showWaiting(false);
@@ -608,9 +607,9 @@ public class LoginPane extends StackPane {
 		}
 		return true;
 	}
-	
+
 	private MediaSimplPane mp = new MediaSimplPane();
-	
+
 	public void setVideo(File file) {
 		try {
 			String pathString = file.toURI().toURL().toString();
@@ -627,4 +626,13 @@ public class LoginPane extends StackPane {
 	public void play() {
 		mp.play();
 	}
+
+	public Label getRegisterLabel() {
+		return registerLabel;
+	}
+
+	public Label getForgetLabel() {
+		return forgetLabel;
+	}
+
 }

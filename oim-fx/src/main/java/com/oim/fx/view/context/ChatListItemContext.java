@@ -26,7 +26,7 @@ public class ChatListItemContext extends AbstractComponent {
 	protected Map<String, ChatItem> userChatItemMap = new ConcurrentHashMap<String, ChatItem>();
 	protected Map<String, ChatItem> groupChatItemMap = new ConcurrentHashMap<String, ChatItem>();
 	protected ComponentSyncBuild sb = new ComponentSyncBuild();
-	private final ChooseGroup chatHeadchooseGroup = new ChooseGroup();
+	protected final ChooseGroup chatHeadchooseGroup = new ChooseGroup();
 	private String selectedKey;
 	
 	public ChatListItemContext(AppContext appContext) {

@@ -116,13 +116,13 @@ public class MainViewImpl extends AbstractView implements MainView {
 		initEvent();
 	}
 
-	private void initialize() {
+	protected void initialize() {
 		mainStage.setCenter(mainPane);
 		mainStage.getRootPane().getStylesheets().add(this.getClass().getResource("/classics/css/main.css").toString());
 		upmv = new UserPaneMenuViewImpl(appContext);
 	}
 
-	private void initIocn() {
+	protected void initIocn() {
 
 		Image businessImage = null;
 
@@ -191,7 +191,7 @@ public class MainViewImpl extends AbstractView implements MainView {
 		mainPane.addFunctionIcon(settingIconButton);
 	}
 
-	private void initComponent() {
+	protected void initComponent() {
 
 		Image normalImage = ImageBox.getImageClassPath("/oim/classics/images/main/tab/icon_contacts_normal.png");
 		Image hoverImage = ImageBox.getImageClassPath("/oim/classics/images/main/tab/icon_contacts_hover.png");
@@ -217,7 +217,7 @@ public class MainViewImpl extends AbstractView implements MainView {
 		mainPane.getFindListPane().addNode(findGroupListPane);
 	}
 
-	private void initEvent() {
+	protected void initEvent() {
 
 		userRootListPane.setOnContextMenuRequested(new EventHandler<ContextMenuEvent>() {
 

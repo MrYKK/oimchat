@@ -41,7 +41,7 @@ public class ChatListFrame extends BaseFrame {
 		this.setMinWidth(itemWidth + paneMinWidth);
 		this.setMinHeight(510);
 		this.setCenter(stackPane);
-		this.getScene().getStylesheets().add(this.getClass().getResource("/resources/chat/css/chat.css").toString());
+		//this.getScene().getStylesheets().add(this.getClass().getResource("/resources/chat/css/chat.css").toString());
 
 		stackPane.getChildren().add(hBox);
 
